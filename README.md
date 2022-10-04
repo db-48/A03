@@ -1,4 +1,12 @@
 <h1>Directions on Using Webstorm</h1>
+<ol>
+<li>Specifically for MAC, git should already be downloaded, you can verify this on the terminal.</li>
+<li>Once you've opened up Webstorm, on the welcome screen there are 3 options: Open, Get from VCS and Create new project.</li>
+<li>To create a new project, you can either click on the create option or click on File->New->Project.</li>
+<li>Now to create a new file in a project, select on the fold where you would like to create a new file.</li>
+<li>Select New and from the menu select the file type from the list provided.</li>
+</ol>
+
 <h1>Glossary</h1>
 <ul>
   <li><b>Branch</b>: A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the main branch to publish your changes.</li>
