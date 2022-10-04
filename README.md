@@ -1,2 +1,2 @@
-<h3>Part 1</h3>
-<h1>Part 2</h1>
+<h1>Directions on Using Webstorm</h1>
+<h1>Glossary</h1>
