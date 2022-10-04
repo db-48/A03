@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-
-</head>
-<body>
-
-</body>
-</html>
+<h1>Part 1</h1>
+<h1>Part 2</h1>
