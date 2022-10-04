@@ -1,7 +1,7 @@
 <h1>Directions on Using Webstorm</h1>
   <ul>
   <li><b>Branch</b></li>
-  <li>Clone</li>
+  <li><b>Clone</b></li>
   <li>Commit</li>
   <li>Fetch</li>
   <li>GIT</li>
